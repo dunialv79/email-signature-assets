@@ -3,32 +3,29 @@
     <td style="padding-right: 15px;">
       <img src="https://raw.githubusercontent.com/dunialv79/email-signature-assets/835e25dbb67cdef13b8a398039c5fb862f8922c6/kaplinskix180.jpg" alt="Dunia Lazo de la Vega" style="width: 100px; height: auto;">
     </td>
-    <td style="border-left: 1px solid #ccc; padding-left: 15px;">
+    <td style="border-left: 2px solid #ccc; padding-left: 15px;">
       <p style="font-family: 'Montserrat', Arial, sans-serif; text-transform: uppercase; margin: 0 0 5px 0; font-size: 17px;">
         <strong>Dunia Lazo de la Vega</strong>
       </p>
-      <p style="margin: 0 0 5px 0;">
+      <p style="margin: 0 0 3px 0; font-style: italic;">
         Subgerente de Tecnología | Kaplinski
       </p><br>
-      <p style="margin: 0 0 5px 0;">
+      <p style="margin: 0 0 3px 0;; font-size: 14px;">
        <img src="https://raw.githubusercontent.com/dunialv79/email-signature-assets/96a97ca1d88f44634a8c6db069b5a8472a8037ec/correo.png" alt="Correo" style="width: 15px; height: auto;">
-        <a href="mailto:lazo@kaplinski.ca" style="color: #1a0dab; text-decoration: none;">lazo@kaplinski.ca</a><br>
+        <a href="mailto:lazo@kaplinski.ca" style="color: #000000; text-decoration: none;">lazo@kaplinski.ca</a><br>
       </p>
-      <p style="margin: 0 0 5px 0;">
+      <p style="margin: 0 0 3px 0; font-size: 14px;">
         <img src="https://raw.githubusercontent.com/dunialv79/email-signature-assets/96a97ca1d88f44634a8c6db069b5a8472a8037ec/movil.png" alt="Correo" style="width: 15px; height: auto;">
         +53 5-344-4596
       </p>
-      <p style="margin: 0 0 5px 0;">
+      <p style="margin: 0 0 3px 0; font-size: 14px;">
         <img src="https://raw.githubusercontent.com/dunialv79/email-signature-assets/96a97ca1d88f44634a8c6db069b5a8472a8037ec/direcci%C3%B3n.png" alt="Correo" style="width: 15px; height: auto;">
-        Paseo de la Reforma,
+        Paseo de la Reforma, Col.Juarez. CDMX
       </p>
-      <p style="margin: 0 0 5px 0;">
-        <img src="" alt="" style="width: 15px; height: auto;">
-        Col.Juarez. CDMX – México
-      </p>
-      <p style="margin: 0;">
+
+      <p style="margin: 0; font-size: 14px;">
         <img src="https://raw.githubusercontent.com/dunialv79/email-signature-assets/96a97ca1d88f44634a8c6db069b5a8472a8037ec/web.png" alt="Correo" style="width: 15px; height: auto;">
-        <a href="http://www.kaplinski.ca" style="color: #1a0dab; text-decoration: none;">www.kaplinski.ca</a><br>
+        <a href="http://www.kaplinski.ca" style="color: #000000; text-decoration: none;">www.kaplinski.ca</a><br>
       </p>
     </td>
   </tr>
